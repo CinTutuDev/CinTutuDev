@@ -17,7 +17,10 @@
     <a href="https://skyline.github.com/cintutudev/2022" target="blank">@cintutudev's 2022 GitHub Skyline</a> 
   </p>
 </h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev" alt="cintutudev" /></a> </p>
+
+<h2 align="center">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev" alt="cintutudev" /></a> </p>
+  </h2>
 <h2 align="center">💥 Aficiones: </h2>
   <h3 align="center">
       <p align="center">
