@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
-  <p>Hola soy CinTutuDev!</p>
+  <p>Hola soy <span style="font-family:Papyrus; font-size:1em; color:violet">C</span>in<span style="font-family:Papyrus; font-size:1em; color:green">T</span>utu<span style="font-family:Papyrus; font-size:1em; color:orange" >D</span>ev!</p>
    <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=Profile%20views&color=0e75b6&style=flat" alt="cintutudev" /> </p>
 </h1>
 
