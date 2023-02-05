@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
-  <p>Hola soy <span style="font-family:Papyrus; font-size:1em; color:violet">C</span>in<span style="font-family:Papyrus; font-size:1em; color:green">T</span>utu<span style="font-family:Papyrus; font-size:1em; color:orange" >D</span>ev!</p>
-   <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=Profile%20views&color=0e75b6&style=flat" alt="cintutudev" /> </p>
-</h1>
-
+# <h1 align="center">:construction: Hola soy CinTutuDev! ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) :construction:</h1>
+  <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
+     <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=yellow" alt="cintutudev" />
+     <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-violet"></p>
+  </h1>
 <h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
 <h3 align="center">
    <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
@@ -64,9 +64,8 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintutudev&show_icons=true&locale=en&layout=compact" alt="cintutudev" /></p>
-
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en" alt="cintutudev" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintutudev&show_icons=true&locale=en&layout=compact&theme=radical" alt="cintutudev" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en&theme=radical" alt="cintutudev" /></p>
 
 <hr>
 <h2 align="center">✨ Donde encontrarme:</h2>
