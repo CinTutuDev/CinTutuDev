@@ -27,8 +27,11 @@
   </h2>
 
 <h2 align="center">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev" alt="cintutudev" /></a> </p>
+  🏆 Trofeos
 </h2>
+  <p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev"        alt="cintutudev" /></a>
+  </p>
+
 
 <h2 align="center">💥 Aficiones: </h2>
   <h3  align="center" >
@@ -42,10 +45,9 @@
      <p> 🎥 Ver pelis de todo tipo.</p>
      <p>📚 Me encanta leer</p>
      <p>🤘 Disfrutar de la familia</p>
-      </h3>
+  </h3>
 
 
-<p></p>
 <h2 align="center">🕹 Lenguajes y Herramientas:</h2>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
