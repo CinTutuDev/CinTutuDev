@@ -73,7 +73,15 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
+<h2 align="center">
+  <p>🎮 Lenguajes Más usados  </p>
+</h2>
+
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintutudev&show_icons=true&locale=en&layout=compact&theme=radical" alt="cintutudev" /></p>
+
+<h2 align="center">
+  <p>📈 Estadísticas </p>
+</h2>
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en&theme=radical" alt="cintutudev" /></p>
 
 <hr>
@@ -84,6 +92,3 @@
 <a href="https://instagram.com/cintutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cintutu" height="30" width="40" /></a>
 <a href="https://discord.gg/Cinta#3003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cinta#3003" height="30" width="40" /></a>
 </p>
-
-
-
