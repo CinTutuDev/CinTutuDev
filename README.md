@@ -1,12 +1,14 @@
 # <h1 align="center">:construction: Hola soy CinTutuDev! ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) :construction:</h1>
   <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
-     <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=yellow" alt="cintutudev" />
+     <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=green" alt="cintutudev" />
      <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black"></p>
   </h1>
-  <p align="center"> 
+   <h2 align="center">
+  <p> 
  Contador Visitas Custom<br>
   <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
 </p>
+   </h2>
 <h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
 <h3 align="center">
    <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
