@@ -31,7 +31,7 @@
 </h2>
 
 <h2 align="center">💥 Aficiones: </h2>
-  <h3  align="left" >
+  <h3  align="center" >
      <p> ⛺ Montañismo/Senderismo </p>
      <p>  ⛷  Snowboard </p>
      <p> ✈️ Viajar </p>  
