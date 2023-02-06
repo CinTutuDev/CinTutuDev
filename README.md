@@ -1,46 +1,53 @@
 # <h1 align="center">:construction: Hola soy CinTutuDev! ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) :construction:</h1>
   <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
-     <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=yellow" alt="cintutudev" />
+     <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=green" alt="cintutudev" />
      <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black"></p>
   </h1>
-  <p align="center"> 
- Contador Visitas Custom<br>
-  <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
-</p>
-<h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
-<h3 align="center">
-   <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
-   <p>💬 Actualmente he finalizado un Bootcamp como Desarrollador Full Stack en CampusDual .</p> 
-   <p>🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.</p> 
-   <p> 👯 Busco colaborar principalmente Frontend</p>
-   <p>🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.</p>
-</h3>
-
-<h2 align="center">
-   <p> My Skyline 🚀  
-    <a href="https://skyline.github.com/cintutudev/2022" target="blank">@cintutudev's 2022 GitHub Skyline</a> 
-  </p>
-</h2>
-
-<h2 align="center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev" alt="cintutudev" /></a> </p>
+  
+  <h2 align="center">
+    <p> 
+     Contador Visitas Custom<br>
+     <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
+     </p>
   </h2>
+  
+  <h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
+    <h3 align="center">
+       <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
+       <p>💬 Actualmente he finalizado un Bootcamp como Desarrollador Full Stack en CampusDual .</p> 
+       <p>🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.</p> 
+       <p> 👯 Busco colaborar principalmente Frontend</p>
+       <p>🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.</p>
+    </h3>
+
+  <h2 align="center">
+     <p> My Skyline 🚀  
+      <a href="https://skyline.github.com/cintutudev/2022" target="blank">@cintutudev's 2022 GitHub Skyline</a> 
+    </p>
+  </h2>
+
+<h2 align="center">
+  🏆 Trofeos
+</h2>
+  <p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev"        alt="cintutudev" /></a>
+  </p>
+
+
 <h2 align="center">💥 Aficiones: </h2>
-  <h3 align="center">
-      <p align="center">
-       ⛺ Montañismo/Senderismo
-       ⛷  Snowboard
-       ✈️ Viajar
-       👨🏻‍🍳 Cocinar
-       🤿 Buceo
-       ⛸  Patinar
-       🎶 Bailar/cantar(cuando estoy solita ...) 
-       🎥 Ver pelis de todo tipo.
-       📚 Me encanta leer
-      </p>
+  <h3  align="center" >
+     <p> ⛺ Montañismo/Senderismo </p>
+     <p>  ⛷  Snowboard </p>
+     <p> ✈️ Viajar </p>  
+     <p>  👨🏻‍🍳 Cocinar </p> 
+     <p>  🤿 Buceo   </p>
+     <p> ⛸  Patinar</p>
+     <p> 🎶 Bailar/cantar(cuando estoy solita ...) </p>
+     <p> 🎥 Ver pelis de todo tipo.</p>
+     <p>📚 Me encanta leer</p>
+     <p>🤘 Disfrutar de la familia</p>
   </h3>
 
-<p></p>
+
 <h2 align="center">🕹 Lenguajes y Herramientas:</h2>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -68,7 +75,15 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
+<h2 align="center">
+  <p>🎮 Lenguajes Más usados  </p>
+</h2>
+
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintutudev&show_icons=true&locale=en&layout=compact&theme=radical" alt="cintutudev" /></p>
+
+<h2 align="center">
+  <p>📈 Estadísticas </p>
+</h2>
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en&theme=radical" alt="cintutudev" /></p>
 
 <hr>
@@ -79,6 +94,3 @@
 <a href="https://instagram.com/cintutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cintutu" height="30" width="40" /></a>
 <a href="https://discord.gg/Cinta#3003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cinta#3003" height="30" width="40" /></a>
 </p>
-
-
-
