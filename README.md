@@ -3,44 +3,47 @@
      <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=green" alt="cintutudev" />
      <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black"></p>
   </h1>
-   <h2 align="center">
-  <p> 
- Contador Visitas Custom<br>
-  <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
-</p>
-   </h2>
-<h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
-<h3 align="center">
-   <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
-   <p>💬 Actualmente he finalizado un Bootcamp como Desarrollador Full Stack en CampusDual .</p> 
-   <p>🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.</p> 
-   <p> 👯 Busco colaborar principalmente Frontend</p>
-   <p>🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.</p>
-</h3>
+  
+  <h2 align="center">
+    <p> 
+     Contador Visitas Custom<br>
+     <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
+     </p>
+  </h2>
+  
+  <h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
+    <h3 align="center">
+       <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
+       <p>💬 Actualmente he finalizado un Bootcamp como Desarrollador Full Stack en CampusDual .</p> 
+       <p>🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.</p> 
+       <p> 👯 Busco colaborar principalmente Frontend</p>
+       <p>🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.</p>
+    </h3>
+
+  <h2 align="center">
+     <p> My Skyline 🚀  
+      <a href="https://skyline.github.com/cintutudev/2022" target="blank">@cintutudev's 2022 GitHub Skyline</a> 
+    </p>
+  </h2>
 
 <h2 align="center">
-   <p> My Skyline 🚀  
-    <a href="https://skyline.github.com/cintutudev/2022" target="blank">@cintutudev's 2022 GitHub Skyline</a> 
-  </p>
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev" alt="cintutudev" /></a> </p>
 </h2>
 
-<h2 align="center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev" alt="cintutudev" /></a> </p>
-  </h2>
 <h2 align="center">💥 Aficiones: </h2>
-  <h3 align="center">
-      <p align="center">
-       ⛺ Montañismo/Senderismo
-       ⛷  Snowboard
-       ✈️ Viajar
-       👨🏻‍🍳 Cocinar
-       🤿 Buceo
-       ⛸  Patinar
-       🎶 Bailar/cantar(cuando estoy solita ...) 
-       🎥 Ver pelis de todo tipo.
-       📚 Me encanta leer
-      </p>
-  </h3>
+  <h3  align="left" >
+     <p> ⛺ Montañismo/Senderismo </p>
+     <p>  ⛷  Snowboard </p>
+     <p> ✈️ Viajar </p>  
+     <p>  👨🏻‍🍳 Cocinar </p> 
+     <p>  🤿 Buceo   </p>
+     <p> ⛸  Patinar</p>
+     <p> 🎶 Bailar/cantar(cuando estoy solita ...) </p>
+     <p> 🎥 Ver pelis de todo tipo.</p>
+     <p>📚 Me encanta leer</p>
+     <p>🤘 Disfrutar de la familia</p>
+      </h3>
+
 
 <p></p>
 <h2 align="center">🕹 Lenguajes y Herramientas:</h2>
