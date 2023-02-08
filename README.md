@@ -1,4 +1,11 @@
-# <h1 align="center">:construction: Hola soy CinTutuDev! ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) :construction:</h1>
+# <hp align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ff41&center=true&vCenter=true&width=940&lines=Hola%2C+Soy+CinTutuDev" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ff00bf&center=true&vCenter=true&width=940&lines=Welcome+a+mi+Perfil!" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
+</h1>
+
+ # <p align="center"> ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social)</p>
+
   <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
      <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=green" alt="cintutudev" />
      <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black"></p>
@@ -16,7 +23,7 @@
        <p>🏁 Buscando trabajo como desarrolladora web frontend</p> 
        <p>💬 Actualmente he finalizado un Bootcamp como Desarrollador Full Stack en CampusDual .</p> 
        <p>🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.</p> 
-       <p> 👯 Busco colaborar principalmente Frontend</p>
+       <p>👯 Busco colaborar principalmente Frontend</p>
        <p>🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.</p>
     </h3>
 
