@@ -1,7 +1,7 @@
 # <p align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=3100&pause=2000&color=00ff41&center=true&vCenter=true&width=940&lines=Hola%2C+Soy+CinTutuDev" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Barrio&size=38&duration=3080&pause=2000&color=ff00bf&center=true&vCenter=true&width=940&lines=Welcome+a+mi+Perfil!" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=3080&pause=2000&color=ff00bf&center=true&vCenter=true&width=940&lines=Welcome+a+mi+Perfil!" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
 </p>
 
  # <p align="center"> ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social)</p>
