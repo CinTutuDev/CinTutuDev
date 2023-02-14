@@ -4,13 +4,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=3080&pause=2000&color=ff00bf&center=true&vCenter=true&width=940&lines=Welcome+a+mi+Perfil!" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
 </p>
 
- <p align="center"><img  src="assets/separator.gif"></p>
+<p align="center"><img  src="assets/separator.gif"></p>
 
- # <p align="center"> ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social)</p>
-
-  <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
+ <h1 align="center"><img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif">
      <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=green" alt="cintutudev" />
-     <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black"></p>
+        <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black">
+        <a href="https://github.com/CinTutuDev?tab=followers">
+           <img src="https://img.shields.io/github/followers/CinTutuDev?label=Followers&style=social" alt="GitHub Badge">
+        </a>
+   
+![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) 
+</p>
   </h1>
   
   <h2 align="center">
@@ -19,6 +23,12 @@
      <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
      </p>
   </h2>
+ <p align="center"><img  src="assets/separator.gif"></p>
+
+
+
+
+
   
   <h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
     <h3 align="center">
@@ -35,13 +45,12 @@
     </p>
   </h2>
 
-<h2 align="center">
+<div align="center">
+  <h2 align="center">
   🏆 Trofeos
 </h2>
-  <p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cintutudev"        alt="cintutudev" /></a>
-  </p>
-
-
+  <img src="https://github-profile-trophy.vercel.app/?username=cintutudev&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  
 <h2 align="center">💥 Aficiones: </h2>
   <h3  align="center" >
      <p> ⛺ Montañismo/Senderismo </p>
@@ -84,18 +93,23 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<h2 align="center">
-  <p>🎮 Lenguajes Más usados  </p>
-</h2>
+
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintutudev&show_icons=true&locale=en&layout=compact&theme=radical" alt="cintutudev" /></p>
 
 <h2 align="center">
-  <p>📈 Estadísticas </p>
-</h2>
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en&theme=radical" alt="cintutudev" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en&theme=radical" alt="cintutudev" />
 
-<hr>
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CinTutuDev&theme=radical) </p>
+ </h2>
+
+<br/>
+
+[![CinTutuDev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CinTutuDev&bg_color=0d1117&color=c9c9c9&line=ff00bf&point=a8e5ff&area=true&hide_border=true)](https://github.com/CinTutuDev/github-readme-activity-graph)
+
+<br/>
+<br/>
+
 <h2 align="center">✨ Donde encontrarme:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/cinta-tafur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cinta-tafur" height="30" width="40" /></a>
