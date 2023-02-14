@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=3080&pause=2000&color=ff00bf&center=true&vCenter=true&width=940&lines=Welcome+a+mi+Perfil!" align="middle" alt="Hola Soy CinTutuDev.Welcome a mi Perfil! animated typed out" width="100%"/>
 </p>
 
- <p align="center"><img  src="assests/../.github/workflows/assets/separator.gif"></p>
+ <p align="center"><img  src="assets/separator.gif"></p>
 
  # <p align="center"> ![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social)</p>
 
