@@ -12,18 +12,18 @@
         <a href="https://github.com/CinTutuDev?tab=followers">
            <img src="https://img.shields.io/github/followers/CinTutuDev?label=Followers&style=social" alt="GitHub Badge">
         </a>
-   
-![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) 
-</p>
+     </p>
   </h1>
   
-  <h2 align="center">
-    <p> 
-     Contador Visitas Custom<br>
-     <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
-     <img  src="assets/separator.gif">
-    </p>
-  </h2>
+<h2 align="center">
+  <p> 
+    Contador Visitas Custom<br>
+    <img src="https://profile-counter.glitch.me/cintutudev/count.svg" />
+     
+![GitHub Org's stars](https://img.shields.io/github/stars/CinTutuDev?style=social) 
+  </p>
+    <img  src="assets/separator.gif">
+</h2>
 
   <h2 align="center">🎈Dando un cambio a mi vida y reinventándome. </h2>
     <h3 align="center">
@@ -116,5 +116,5 @@
 <a href="https://instagram.com/cintutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cintutu" height="30" width="40" /></a>
 <a href="https://discord.gg/Cinta#3003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cinta#3003" height="30" width="40" /></a>
 
-<p align="center"><img  src="assets/munieco.gif"></p>
+<p align="center"><img  src="assets/line-gif-24.gif" width="75%" alt="mineco" align="middle" ></p>
 </p>
