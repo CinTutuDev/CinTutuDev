@@ -93,7 +93,9 @@
 <br/>
 <br/>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintutudev&show_icons=true&locale=en&layout=compact&theme=radical" alt="cintutudev" /></p>
+<p align="center" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintutudev&repo=CVCinTutuDev&show_icons=true&locale=es&layout=compact&theme=radical&langs_count=6" alt="cintutudev" />
+</p>
 
 <h2 align="center">
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cintutudev&show_icons=true&locale=en&theme=radical" alt="cintutudev" />
