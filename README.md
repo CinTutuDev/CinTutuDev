@@ -6,7 +6,7 @@
 
 <p align="center"><img  src="assets/separator.gif"></p>
 
- <h1 align="center"><img src="https://github.com/CinTutuDev/CinTutuDev/assets/71487857/8164d644-5cfc-4721-980b-4170facfeaa7">
+ <h1 align="center"><img src="https://github.com/CinTutuDev/CinTutuDev/assets/71487857/3b6d65e7-e914-42f5-b0b8-56855015b4a3">
      <p><img src="https://komarev.com/ghpvc/?username=cintutudev&label=VISITAS%20&color=green" alt="cintutudev" />
         <img src="https://img.shields.io/badge/ESTADO-FUCHICANDO%20CODIGO-black">
         <a href="https://github.com/CinTutuDev?tab=followers">
