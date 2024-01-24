@@ -103,13 +103,6 @@
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CinTutuDev&theme=radical) </p>
  </h2>
 
-<br/>
-
-[![CinTutuDev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CinTutuDev&bg_color=0d1117&color=c9c9c9&line=ff00bf&point=a8e5ff&area=true&hide_border=true)](https://github.com/CinTutuDev/github-readme-activity-graph)
-
-<br/>
-<br/>
-
 
 <h2 align="center">✨ Donde encontrarme:</h2>
 <p align="center">
